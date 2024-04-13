@@ -1,0 +1,9 @@
+This is a ChatBot written in JavaScript and Node.js using the OpenAI API. It is based on Brad Traversy tutorial with a minor tweak and migration to a newer version to make the code work. For this reason if you are following his tutorial, I would advise to use the command **_ npm exec openai migrate _** to make the code work in newer ChatGPT updated versions.
+
+Steps:
+npm init
+**_ give package information _**
+
+npm install openai readline-sync optional dependencies: (dotenv colors)
+
+Happy Hacking!
